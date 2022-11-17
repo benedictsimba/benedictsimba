@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @benedictsimba
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript
-- 
-
-<!---
-benedictsimba/benedictsimba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+😊 Pronouns: He | Him | Hero
+🌱 I’m currently learning JavaScript.
+😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+💼 Job interests: Software Engineer, Front-end Engineer (Intern or Junior level).
+📫 You can contact me by emailing Simbabenedict@gmail.com
